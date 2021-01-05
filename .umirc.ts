@@ -6,9 +6,6 @@ export default defineConfig({
   logo: '/images/logo.svg',
   outputPath: 'docs-dist',
   mode: 'site',
-  base: '/mareact',
-  publicPath: '/mareact/',
-  exportStatic: {},
   navs: [
     null,
     {
