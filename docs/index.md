@@ -1,8 +1,8 @@
 ---
-title: mareact - An React component library build on Material-UI
+title: mareact - A React component library build on Material-UI
 hero:
   title: mareact
-  desc: An React component library build on Material-UI.
+  desc: A React component library build on Material-UI.
   actions:
     - text: Getting Started
       link: /guide
