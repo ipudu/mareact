@@ -1,4 +1,5 @@
 import { defineConfig } from 'dumi';
+import path from 'path';
 
 export default defineConfig({
   title: 'mareact',
@@ -13,4 +14,7 @@ export default defineConfig({
       path: 'https://github.com/ipudu/mareact',
     },
   ],
+  alias: {
+    react: path.resolve('./node_modules/react'),
+  },
 });
