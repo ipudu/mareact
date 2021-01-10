@@ -1,7 +1,7 @@
 {
   "name": "mareact",
   "license": "MIT",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "react component library",
   "keywords": [
     "mareact",
@@ -11,7 +11,8 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ipudu/mareact.git"
+    "url": "git+https://github.com/ipudu/mareact.git",
+    "branch": "main"
   },
   "scripts": {
     "start": "dumi dev",
@@ -41,7 +42,8 @@
   "dependencies": {
     "@material-ui/core": "^4.11.2",
     "classnames": "^2.2.6",
-    "react": "^16.14.0"
+    "react": "^16.12.0",
+    "react-transition-group": "^4.4.1"
   },
   "devDependencies": {
     "@types/classnames": "^2.2.11",
