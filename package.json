@@ -39,9 +39,12 @@
     ]
   },
   "dependencies": {
-    "react": "^16.12.0"
+    "@material-ui/core": "^4.11.2",
+    "classnames": "^2.2.6",
+    "react": "^16.14.0"
   },
   "devDependencies": {
+    "@types/classnames": "^2.2.11",
     "@umijs/test": "^3.0.5",
     "dumi": "^1.0.10",
     "father-build": "^1.17.2",
