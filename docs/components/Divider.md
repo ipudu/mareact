@@ -4,6 +4,8 @@ title: Divider
 
 # Divider
 
+A divider line separates different content.
+
 ## Default Divider
 
 ```tsx
