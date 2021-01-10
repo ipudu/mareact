@@ -5,7 +5,7 @@ nav:
   path: /components
 ---
 
-# Buttons
+# Button
 
 Custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.
 
