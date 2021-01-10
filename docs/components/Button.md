@@ -1,15 +1,12 @@
 ---
 title: Button
-nav:
-  title: Components
-  path: /components
 ---
 
 # Button
 
 Custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.
 
-### Default Button
+## Default Button
 
 ```tsx
 import React from 'react';
@@ -18,7 +15,7 @@ import { Button } from 'mareact';
 export default () => <Button>default</Button>;
 ```
 
-### Contained Buttons
+## Contained Buttons
 
 ```tsx
 import React from 'react';
@@ -57,7 +54,7 @@ export default () => (
 );
 ```
 
-### Outline Buttons
+## Outline Buttons
 
 ```tsx
 import React from 'react';
@@ -96,7 +93,7 @@ export default () => (
 );
 ```
 
-### Text Buttons
+## Text Buttons
 
 ```tsx
 import React from 'react';
@@ -135,7 +132,7 @@ export default () => (
 );
 ```
 
-### Sizes
+## Sizes
 
 ```tsx
 import React from 'react';
@@ -174,4 +171,4 @@ export default () => (
 );
 ```
 
-<API></API>
+<API src="../../src/Button/index.tsx"></API>
