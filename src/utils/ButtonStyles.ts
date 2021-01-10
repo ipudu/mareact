@@ -187,7 +187,7 @@ const text = makeStyles((theme) => ({
 }));
 
 export default {
-  contained: contained(),
-  outlined: outlined(),
-  text: text(),
+  contained,
+  outlined,
+  text,
 };

@@ -44,12 +44,10 @@ const Button: React.FC<IButtonProps> = ({
   children,
   ...other
 }) => {
+  const style = styles[variant]();
   return (
     <MuiButton
-      className={classNames(
-        disabled ? styles[variant].light : styles[variant][color],
-        className,
-      )}
+      className={classNames(disabled ? style.light : style[color], className)}
       disabled={disabled}
       size={size}
       {...other}
