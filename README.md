@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ipudu/mda">
-    <img alt="mareact" src="./public/images/logo.svg" width="40%" height="40%">
+    <img alt="mareact" src="./public/images/logo.svg" width="20%" height="20%">
   </a>
 </p>
 
